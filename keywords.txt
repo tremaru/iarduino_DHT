@@ -1,0 +1,17 @@
+#	####################################################
+#	СИНТАКСИЧЕСКАЯ РАСКРАСКА ДЛЯ БИБИЛИОТЕКИ:
+#	iarduino_DHT
+#	####################################################
+#	ТИПЫ ДАННЫХ:							   (KEYWORD1)
+	iarduino_DHT	KEYWORD1
+#	####################################################
+#	МЕТОДЫ И ФУНКЦИИ:						   (KEYWORD2)
+	read	KEYWORD2
+	hum	KEYWORD2
+	tem	KEYWORD2
+#	####################################################
+#	КОНСТАНТЫ:								   (LITERAL1)
+	DHT_OK	LITERAL1
+	DHT_ERROR_CHECKSUM	LITERAL1
+	DHT_ERROR_DATA	LITERAL1
+	DHT_ERROR_NO_REPLY	LITERAL1
