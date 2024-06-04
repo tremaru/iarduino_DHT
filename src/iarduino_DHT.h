@@ -1,6 +1,6 @@
 //	Библиотека для работы с датчиками температуры и влажности DHT11: http://iarduino.ru/shop/Sensory-Datchiki/cifrovoy-datchik-temperatury-i-vlazhnosti-trema-modul.html
 //  И (или)    для работы с датчиками температуры и влажности DHT22: http://iarduino.ru/shop/Sensory-Datchiki/cifrovoy-datchik-temperatury-i-vlazhnosti-vysokoy-tochnosti-trema-modul.html
-//  Версия: 1.1.1
+//  Версия: 1.1.2
 //  Последнюю версию библиотеки Вы можете скачать по ссылке: http://iarduino.ru/file/225.html
 //  Подробное описание функции бибилиотеки доступно по ссылке: http://wiki.iarduino.ru/page/cifrovoy-datchik-temperatury-i-vlazhnosti/
 //  Библиотека является собственностью интернет магазина iarduino.ru и может свободно использоваться и распространяться!
